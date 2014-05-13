@@ -132,6 +132,11 @@ namespace GalaxyConquest
 
         }
 
+        private void buttonCancel_Click(object sender, EventArgs e)
+        {
+
+        }
+
         
        
         

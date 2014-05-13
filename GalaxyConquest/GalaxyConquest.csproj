@@ -181,6 +181,11 @@
     <Content Include="freeglut.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="Resources\background_dialog.png" />
+    <None Include="Resources\configure1.png" />
+    <None Include="Resources\help1.png" />
+    <None Include="Resources\background_main.png" />
+    <None Include="Resources\close.png" />
     <Content Include="Sounds\iongun2.wav" />
     <Content Include="Sounds\laser1.wav">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
